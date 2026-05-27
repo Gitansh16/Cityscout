@@ -1,4 +1,4 @@
-# CityScout
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=CityScout&fontSize=42&fontAlignY=35&animation=fadeIn"/>
 
 CityScout is a web-based tourism and city exploration platform designed to help users discover important travel destinations, attractions, and local information across multiple Indian cities through a centralized and easy-to-use interface.
 
