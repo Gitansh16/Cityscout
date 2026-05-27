@@ -4,7 +4,7 @@ CityScout is a web-based tourism and city exploration platform designed to help 
 
 The project focuses on solving the common problem travelers face while searching for reliable and organized information about cities, tourist spots, and local highlights scattered across different platforms.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5"/>
 
 # Problem Statement
 
@@ -19,7 +19,7 @@ Travelers and tourists often face several challenges while planning trips or exp
 
 CityScout addresses these issues by providing a lightweight, organized, and responsive platform that delivers tourism-related information in a structured format.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5"/>
 
 # Objectives of the Project
 
@@ -32,7 +32,7 @@ The main objectives of CityScout are:
 - To build an easily deployable static web application.
 - To provide a scalable structure where new cities can be added easily.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5"/>
 
 # Features
 
@@ -51,7 +51,7 @@ The platform contains dedicated pages for multiple Indian cities including:
 
 Each city page contains destination-specific information and visuals.
 
----
+
 
 ## Tourism Information
 CityScout provides:
@@ -62,7 +62,7 @@ CityScout provides:
 - Informational sections
 - Travel-related visuals
 
----
+
 
 ## Responsive Design
 The application is fully responsive and works across:
@@ -71,7 +71,7 @@ The application is fully responsive and works across:
 - Tablets
 - Mobile phones
 
----
+
 
 ## Organized Structure
 The project uses a modular folder structure for:
@@ -85,7 +85,7 @@ The project uses a modular folder structure for:
 
 This makes maintenance and scalability easier.
 
----
+
 
 ## Lightweight Static Website
 The platform is completely static, which means:
@@ -96,7 +96,8 @@ The platform is completely static, which means:
 - Lower hosting costs
 - Better portability
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5"/>
+
 
 # Advantages of CityScout
 
@@ -110,7 +111,7 @@ The platform is completely static, which means:
 - Centralized tourism information
 - Clean and structured layout
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5"/>
 
 # Technologies Used
 
@@ -123,7 +124,7 @@ The platform is completely static, which means:
 - Bootstrap
 - jQuery
 
----
+
 
 ## Libraries and Plugins
 
@@ -132,30 +133,10 @@ The platform is completely static, which means:
 - Font Awesome
 - Bootstrap Components
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5"/>
 
-# Project Structure
 
-```bash
-CityScout/
-│
-├── index.html
-├── README.md
-│
-├── css/
-├── js/
-├── img/
-├── fonts/
-├── scss/
-│
-└── Pages-inside/
-    ├── chennai.html
-    ├── pune.html
-    ├── mumbai.html
-    ├── nagpur.html
-    ├── ooty.html
-    └── more city pages
-```
+
 
 # Installation and Setup
 
@@ -169,7 +150,7 @@ git clone https://github.com/Gitansh16/Cityscout.git
 
 Open `index.html` directly in a browser.
 
----
+
 
 ## Run Locally Using Python
 
@@ -183,7 +164,7 @@ Then open:
 http://localhost:8000
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5"/>
 
 # Future Enhancements
 
@@ -198,7 +179,8 @@ Future improvements planned for the project include:
 - AI-based travel recommendations
 - Dark mode support
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5"/>
+
 
 # Educational Value
 
@@ -212,13 +194,15 @@ This project is useful for learning:
 - JavaScript plugin integration
 - Multi-page website architecture
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5"/>
+
 
 # Conclusion
 
 CityScout is a lightweight and scalable tourism information platform developed to simplify city exploration and travel discovery. The project demonstrates how frontend technologies can be used effectively to create structured and user-friendly travel solutions while maintaining performance and simplicity.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5"/>
+
 
 # Developer
 
